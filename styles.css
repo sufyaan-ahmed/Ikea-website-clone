@@ -1,1 +1,11 @@
- 
+:root{
+    /* They are ikea's official color theme  */
+    --ikea-bg-blue: #0057AD;
+    --ikea-bg-yellow: #FBDA0C; 
+}
+
+/* use it with  */
+
+/* selector {
+    background-color: var(--ikea-bg-blue);
+} */
